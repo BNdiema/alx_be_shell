@@ -3,4 +3,5 @@
 *1-who_am_i* script that prints effective username
 *4-empty* script that creates an empty file
 *5-execute* script that adds exexute permission to the owner
-*6-multiple_permissions script that adds execute permission to the owner and the group owner, and read permission to other users file hello.
+*6-multiple_permissions* script that adds execute permission to the owner and the group owner, and read permission to other users file hello.
+*9-John_Doe* script that sets the mode of file hello to -rwxr-x-wx
